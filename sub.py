@@ -1,1 +1,1 @@
-print("sub")
+print("submarine")
